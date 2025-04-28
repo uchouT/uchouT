@@ -2,7 +2,7 @@
 ~~I'm a student at HDU.
 🌱 I’m currently learning many things.~~
 
-No one cares about the present you. To grow stronger...
+No one cares about the present you. To grow stronger ...
 <!--
 **uchouT/uchouT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
